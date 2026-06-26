@@ -66,7 +66,7 @@ I'm a Software Engineer at **Flyer FX Pvt. Ltd.**, working on a full-stack **bil
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Jerome-10&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Jerome-10&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
