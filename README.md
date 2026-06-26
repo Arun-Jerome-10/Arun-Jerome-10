@@ -8,7 +8,7 @@
   <a href="mailto:arunjerome3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-arunjerome3%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/arun-jerome" target="_blank">
+  <a href="https://linkedin.com/in/arun-jerome3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arun%20Jerome-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Trivandrum%2C%20India-1A3C5E?style=flat&logo=googlemaps&logoColor=white" />
